@@ -3,6 +3,7 @@ import { useState } from 'react';
 function Home() {
   const [inputValue, setInputValue] = useState('');
 
+  //@ts-ignore
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('Submitted value:', inputValue);
