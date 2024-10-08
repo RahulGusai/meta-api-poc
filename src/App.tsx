@@ -10,7 +10,7 @@ function App() {
         alignItems: 'center',
       }}
     >
-      <a href="https://www.instagram.com/oauth/authorize?enable_fb_login=0&force_authentication=1&client_id=1231880454905209&redirect_uri=https://note-keeper-ochre.vercel.app/&response_type=code&scope=instagram_business_basic%2Cinstagram_business_manage_messages%2Cinstagram_business_manage_comments%2Cinstagram_business_content_publish">
+      <a href="https://www.instagram.com/oauth/authorize?enable_fb_login=0&force_authentication=1&client_id=1231880454905209&redirect_uri=https://meta-api-poc.vercel.app/&response_type=code&scope=instagram_business_basic%2Cinstagram_business_manage_messages%2Cinstagram_business_manage_comments%2Cinstagram_business_content_publish">
         <button
           style={{
             padding: '10px 20px',
